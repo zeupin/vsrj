@@ -1,0 +1,8 @@
+.vsrj { text-align: center; font-size: 0; }
+
+.vsrj-btn, .vsrj-text { font-size: 0.9rem; text-decoration: none; padding: 0.4em 0.7em; color: #333; margin: 0.2em; }
+
+.vsrj-btn { border: 1px solid #ccc; border-radius: 0.2em; }
+.vsrj-btn:hover { background-color: #f0f0f0; color: #333; }
+
+.vsrj-text { cursor: default; }
